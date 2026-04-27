@@ -3,6 +3,11 @@
 ## 📌 Project Overview
 This project focuses on analyzing crime victim data using **Microsoft Excel and Power BI**. The main objective is to identify patterns and insights based on demographic and incident-related factors such as age, gender, race, and type of crime.
 
+<img width="1846" height="732" alt="Screenshot 2026-04-18 201000" src="https://github.com/user-attachments/assets/9c418663-0a3a-42d8-8418-a5ac53508996" />
+<img width="1811" height="715" alt="Screenshot 2026-04-18 201028" src="https://github.com/user-attachments/assets/fabe0dc6-bedc-4054-9d81-fe260d8748c4" />
+
+
+
 ---
 
 ## 🎯 Objectives
