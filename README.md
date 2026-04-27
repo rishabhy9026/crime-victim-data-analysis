@@ -94,5 +94,5 @@ This project shows how **Excel and Power BI** can be used to transform raw data 
 
 ---
 
-## 👨‍💻 Author
-**Your Name**
+## 👨‍💻 Mentor 
+**Maneer kaur**
