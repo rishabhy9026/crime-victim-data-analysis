@@ -20,8 +20,6 @@ Race – Victim’s race
 Gunshot Injury – Whether a gun was involved
 Domestic – Whether the case was domestic
 Number of Victims – Count of victims
-
-
 🛠 Tools & Technologies Used
 Microsoft Excel
 Data Cleaning
@@ -32,47 +30,34 @@ Power BI
 Data Modeling
 DAX Functions
 Interactive Dashboards
-
 🔍 Key Features
-
 Cleaned and structured raw data for analysis
 Used Pivot Tables for summarizing large datasets
 Applied formulas and functions for calculations
 Created interactive charts and visualizations
 Built a dashboard for better data interpretation
-
 📊 Visualizations Used
-
 Bar/Column Charts – For comparison (e.g., gender, age groups)
 Pie Charts – For percentage distribution
 Line Charts – For trend analysis over time
-
 📈 Insights Gained
-
 Identified which demographic groups are most affected
 Observed trends in crime over time
 Analyzed the role of gun-related and domestic incidents
 Compared victim distribution across different categories
-
 🧠 Skills Learned
-
 Data Cleaning and Preparation
 Data Analysis using Excel
 Data Visualization Techniques
 Basics of Power BI and DAX
 Dashboard Creation
-
 ⚠️ Limitations
-
 Dataset may not represent complete real-world scenarios
 Limited variables for deeper analysis
-
 🚀 Future Improvements
-
 Include more datasets for deeper insights
 Use advanced analytics and machine learning
 Enhance dashboard interactivity
-
 📌 Conclusion
 
 This project demonstrates how Excel and Power BI can be effectively used to transform raw data into meaningful insights through analysis and visualization.
