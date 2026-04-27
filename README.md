@@ -1,4 +1,4 @@
-# 📊 Crime Data Analysis using Excel & Power BI
+# 📊 Crime Data Analysis using Excel 
 
 ## 📌 Project Overview
 This project focuses on analyzing crime victim data using **Microsoft Excel and Power BI**. The main objective is to identify patterns and insights based on demographic and incident-related factors such as age, gender, race, and type of crime.
@@ -41,7 +41,7 @@ The dataset includes the following attributes:
 - Formulas (SUM, COUNTIF, IF, etc.)  
 - Charts (Bar, Pie, Line)  
 
-### ⚡ Power BI
+### ⚡ Power BI(if you want to use )
 - Data Modeling  
 - DAX Functions  
 - Interactive Dashboards  
